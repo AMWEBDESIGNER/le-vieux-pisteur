@@ -1,0 +1,1 @@
+const b=document.querySelector('header button'),n=document.querySelector('nav');b.addEventListener('click',()=>{const o=n.classList.toggle('open');b.setAttribute('aria-expanded',o)});document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>n.classList.remove('open')));
