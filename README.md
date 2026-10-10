@@ -14,6 +14,10 @@ Site vitrine statique pour **Le Vieux Pisteur**, snack, bar et crêperie à l’
 - Dépôt : https://github.com/AMWEBDESIGNER/le-vieux-pisteur
 - Pages : https://le-vieux-pisteur.pages.dev
 
+## Parcours livré
+
+L’accueil est complété par `experience.html` et `infos.html`, avec les services annoncés (snack, bar, crêperie), l’altitude, les conditions d’accès et l’appel direct. Confirmer météo, remontées, horaires, photos et identité avec le gestionnaire. Maquette indépendante.
+
 ## Personnalisation
 
 Mettre à jour téléphone, logo, photos et conditions d’ouverture après validation du gestionnaire. Le site ne nécessite pas de compilation.
