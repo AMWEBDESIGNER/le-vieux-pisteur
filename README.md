@@ -23,3 +23,7 @@ L’accueil est complété par `experience.html` et `infos.html`, avec les servi
 Mettre à jour téléphone, logo, photos et conditions d’ouverture après validation du gestionnaire. Le site ne nécessite pas de compilation.
 
 Maquette indépendante, sans affiliation avec l’établissement.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
